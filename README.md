@@ -13,3 +13,6 @@ Train: 0.895, Test: 0.517  <br/>
  
  ![Screenshot](accuracy_51.7.png)
  ![Screenshot](loss_51.7.png)
+ ![Screenshot](data_extraction_explorer.png)
+ ![Screenshot](model_creation_explorer.png)
+ 
